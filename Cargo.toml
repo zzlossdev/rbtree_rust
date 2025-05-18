@@ -1,6 +1,9 @@
 [package]
-name = "rbtree"
+name = "rbtree_rust"
 version = "0.1.0"
+description = "a simple generic red black tree"
+repository = "https://github.com/zzlossdev/rbtree_rust"
+license = "MIT License"
 edition = "2024"
 
 [dependencies]
